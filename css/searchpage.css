@@ -1,0 +1,123 @@
+body{
+
+    background-image: linear-gradient(to right, rgb(61, 65, 33) 20%, rgb(73, 73, 35)30%, rgb(133, 133, 4)) ;
+
+}
+
+.inputClass{
+
+    display: block;
+    height: 300px;
+    width: 100%;
+
+}
+
+input{
+
+    height: 30px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 100px;
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(223, 212, 115);
+    font-size: 16px;
+    
+}
+
+i{
+
+    margin-left: -35px;
+    color: black;
+
+}
+
+input::placeholder{
+
+    color: black;
+    font-size: 16px;
+
+}
+
+.firstDiv{
+
+    display: flex;
+    gap: 100px;
+
+}
+
+.secondDiv{
+
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+
+}
+
+.thirdDiv{
+
+    display: flex;
+    gap: 100px;
+}
+
+img{
+
+    height: 500px;
+    width: 600px;
+
+}
+
+.first-micro-div{
+
+    margin-left: 40px;
+
+}
+
+.first-micro-div h1{
+
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.first-micro-div h2{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.first-micro-div p{
+
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.second-micro-div{
+
+    margin-left: 40px;
+
+}
+
+.second-micro-div h1{
+
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.second-micro-div h2{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.second-micro-div p{
+
+    text-align: center;
+    font-size: 18px;
+
+}
